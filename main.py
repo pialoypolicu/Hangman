@@ -1,1 +1,1 @@
-ри
+print('hangman')
